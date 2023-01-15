@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "benshabatnoam.google-translate-ext",
+        "hancel.google-translate",
+        "ms-python.python",
+        "wscats.search",
+        "etmoffat.pip-packages",
+        "slightc.pip-manager"
+    ]
+}
